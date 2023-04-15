@@ -1,5 +1,6 @@
 # Deep Learning based multi-frequency GPR data merging
 G. Roncoroni¹, E. Forte¹, I. Santin¹, M. Pipan¹
+
 ¹ Università di Trieste, Dipartimento di Matematica e Geoscienze
 
 Submitted to geophyisics
